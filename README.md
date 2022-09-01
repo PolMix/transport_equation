@@ -3,9 +3,10 @@ This code is written in support to my course work. The task was to numerically s
 
 Instruments I used:
 - Matplotlib library for plotting
-- Pandas library for numberical processing
+- Pandas library for numerical processing
 
 The code was written using:
 - Recursion
 - Knowledge of advanced mathematical analysis
 
+For additional info see the .pdf file in the repository
